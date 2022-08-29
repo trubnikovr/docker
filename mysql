@@ -1,1 +1,1 @@
-docker run --rm --name mysql -e MYSQL_ROOT_PASSWORD=12345 -p 3306:3306 postgres
+docker run --rm --name mysql -e MYSQL_ROOT_PASSWORD=12345 -p 3306:3306 mysql
